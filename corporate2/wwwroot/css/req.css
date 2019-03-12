@@ -1,0 +1,14 @@
+﻿body 
+{
+    margin:0px;
+    padding:0px;
+}
+.wi
+{
+    width:300px;
+}
+.btn {
+    width: 200px;
+    background-color: #3498db;
+    color: white;
+}

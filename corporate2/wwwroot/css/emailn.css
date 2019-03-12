@@ -1,0 +1,42 @@
+﻿body {
+    padding:0px;
+    margin:0px;
+}
+.heading {
+    padding-left: 10px;
+    margin-top: -35px;
+    padding-top:5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.lbl {
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.text {
+    display: inline-block;
+    width: 500px;
+    margin-left:35px;
+    width:700px;
+}
+#cc
+{
+    margin-right:-3px;
+    margin-top:15px;
+}
+
+#subject {
+    margin-top: 15px;
+    margin-left:10px;
+}
+.texta{
+    margin-left:68px;
+    margin-top:10px;
+}
+#meassage{
+    width:700px;
+}
+.btn {
+    float: right;
+}
